@@ -1,0 +1,6 @@
+framework module Pods_AlomofireJsonRandomUsers {
+  umbrella header "Pods-AlomofireJsonRandomUsers-umbrella.h"
+
+  export *
+  module * { export * }
+}
